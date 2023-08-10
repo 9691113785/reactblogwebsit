@@ -41,7 +41,7 @@ const Bollywood = () => {
         ))
          }
 
-          <div className='advertisement'>AdverTisement</div>
+          <div className='advertisementb'>AdverTisement</div>
         </div>
 
       </div>

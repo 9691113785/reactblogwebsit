@@ -39,7 +39,7 @@ const Fitness = () => {
               />
           ))
           }
-<div className='advertisement'>AdverTisement</div>
+<div className='advertisementf'>AdverTisement</div>
 </div>
       
 </div>

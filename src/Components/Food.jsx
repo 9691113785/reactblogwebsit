@@ -35,13 +35,12 @@ const Food = () => {
                   articleid={n.id}
                   imgUrl={n.img}
                   title={n.title}
-                  description={n.description.slice(0, 150)}
+                  description={n.description.slice(0, 140)}
                   author={n.author}
               />
           ))
           }
 
-<div className='advertisement'>AdverTisement</div>
 </div>
       
 </div>

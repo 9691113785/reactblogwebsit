@@ -31,11 +31,13 @@
     width: 52%;
     margin: 1%;
 }
-.advertisement{
+.advertisementh{
     border: 3px solid grey;
     width: 90%;
     margin: 2%;
-    height: 600px;
+    height: 500px;
+    background: url('https://source.unsplash.com/200x600?random');
+
 }
 
 @media only screen and (max-width:700px){

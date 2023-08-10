@@ -41,7 +41,7 @@ const Technology = () => {
               />
           ))
           }
-<div className='advertisement'>AdverTisement</div>
+<div className='advertisementt'>AdverTisement</div>
 </div>
       
 </div>

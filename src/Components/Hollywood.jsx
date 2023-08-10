@@ -34,13 +34,13 @@ const Hollywood = () => {
                   articleid={n.id}
                   imgUrl={n.img}
                   title={n.title}
-                  description={n.description.slice(0, 150)}
+                  description={n.description.slice(0, 350)}
                   author={n.author}
               />
           ))
           }
 
-<div className='advertisement'>AdverTisement</div>
+<div className='advertisementh'>AdverTisement</div>
 </div>
       
 </div>
