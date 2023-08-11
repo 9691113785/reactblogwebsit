@@ -40,7 +40,7 @@ const Hollywood = () => {
           ))
           }
 
-<div className='advertisementh'>AdverTisement</div>
+<div className='advertisementhh'>AdverTisement</div>
 </div>
       
 </div>

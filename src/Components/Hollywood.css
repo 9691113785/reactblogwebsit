@@ -31,16 +31,29 @@
     width: 52%;
     margin: 1%;
 }
-.advertisementh{
+.advertisementhh{
     border: 3px solid grey;
     width: 90%;
     margin: 2%;
-    height: 500px;
+    height: 530px;
     background: url('https://source.unsplash.com/200x600?random');
 
 }
 
 @media only screen and (max-width:700px){
+    .holly-display{
+        display: block;
+        
+      
+    }
+    .holly-dis-1{
+        width: 95%;
+    }
+    .holly-dis-2{
+        width: 95%;
+    }
+}
+@media only screen and (max-width:412px){
     .holly-display{
         display: block;
         
